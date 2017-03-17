@@ -1,3 +1,6 @@
+# data files
+hygdata*
+
 # Logs
 logs
 *.log
